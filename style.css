@@ -1,0 +1,66 @@
+body {
+	font-family: "Ubuntu", sans-serif;
+	color: #552e2e;
+}
+
+a {
+	color: #3b6f9c;
+}
+
+.menubody {
+	line-height: 30px;
+	background: #c9f2c9;
+}
+
+.topbody {
+	text-align: center;
+	margin-top: 30vh;
+	background: #f2deb1;
+}
+
+.footerbody {
+	font-weight: 700;
+	font-size: 28px;
+	background: #99b8f2;
+}
+
+.contentbody {
+	background: #f2a5cc;
+	text-align: center;
+}
+
+.contenth2 {
+	margin-top: 5%;
+}
+
+.footer {
+	display: flex;
+	justify-content: center;
+	margin-top: 25vh;
+	font-size: 50px;
+}
+
+.images {
+	display: flex;
+	justify-content: space-around;
+}
+
+.image {
+	width: 95%;
+	height: 45vh;
+	margin: 0 auto;
+}
+
+.sliderpelm {
+	width: 95%;
+	margin: 0 auto;
+}
+
+.sliderElement {
+	height: 80%;
+}
+
+.image {
+	margin-top: 15%;
+	height: 55vh;
+}
